@@ -9,6 +9,7 @@ import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import com.example.android.navigation.databinding.FragmentGameBinding
 import com.example.navigation.R
+import com.example.navigation.databinding.FragmentGameBinding
 
 class GameFragment : Fragment() {
     data class Question(

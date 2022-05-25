@@ -8,6 +8,7 @@ import androidx.databinding.DataBindingUtil
 import androidx.fragment.app.Fragment
 import com.example.android.navigation.databinding.FragmentGameOverBinding
 import com.example.navigation.R
+import com.example.navigation.databinding.FragmentGameOverBinding
 
 class GameOverFragment : Fragment() {
     override fun onCreateView(inflater: LayoutInflater, container: ViewGroup?,
